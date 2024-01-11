@@ -37,7 +37,7 @@ export default function RootLayout({
             <aside className="hidden md:block min-h-screen">
               <SideBar />
             </aside>
-            <div className="ml-5 mt-5 min-h-screen">{children}</div>
+            <div className="m-5 min-h-screen w-full">{children}</div>
           </div>
         </ContextProvider>
       </body>
