@@ -9,9 +9,9 @@ const menu = [
   },
   {
     id: 2,
-    title: "About",
+    title: "Set up URL",
     icon: list,
-    link: "/about",
+    link: "/url",
   },
   {
     id: 3,
